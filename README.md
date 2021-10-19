@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @halahasz
 - 👀 I’m interested in Frontend technologies
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on beautifully designed projects 😉
+- 💞️ I’m looking to collaborate on beautifully designed projects with a mission 😉
 - 📫 Reach me sending a message to hbalys@gmail.com
 
 <!---
